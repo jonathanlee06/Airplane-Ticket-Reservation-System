@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{8B7CF84B-A2A5-4127-8D93-CE0A771654B6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Submission</RootNamespace>
+    <RootNamespace>Airplane Ticket Reservation System</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>Airplane Ticket Reservation System</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
