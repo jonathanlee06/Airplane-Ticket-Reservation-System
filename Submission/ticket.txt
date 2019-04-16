@@ -1,0 +1,13 @@
+
+
+ Flight number: AK021
+
+  Passenger name: Lee Chi Kin
+   Seat Class: Business Class
+
+  Seat number: 11
+   Date of Departure: 2-4-2019
+   Depart from: Kuching (KCH) 
+   Departure time: 8.00p.m
+   Arrive at: Kuala Lumpur (KUL) 
+   Estimated arrival time: 10.00p.m
